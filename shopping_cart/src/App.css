@@ -7,7 +7,13 @@
 .header {
   color: red;
 }
-
+.table {
+  border-collapse: collapse;
+  /* border: 2px solid black; */
+}
+td {
+  border: 2px solid black;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
